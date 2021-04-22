@@ -28,3 +28,12 @@ footer{
     font-size: 10vw;
     font-family: fantasy;
 }
+
+input{
+    height: 50px;
+    width: 300px; 
+    font-size: 25pt;
+    padding: 10px;
+
+    
+}
